@@ -25,7 +25,7 @@ Instead of updating all model weights, only a small subset of parameters is trai
 - Reduces memory usage
 - Speeds up training
 - Makes the process feasible on limited hardware (e.g., Google Colab)
-
+---
 ### 3. Dataset Preparation
 The project uses the **English Quotes Dataset**, which contains a collection of inspirational and philosophical quotes collected from Goodreads.
 
