@@ -1,11 +1,9 @@
 # Fine-Tuning Phi-2 with LoRA for Keyword Extraction
 
 ## Overview
-This project focuses on fine-tuning a Large Language Model (LLM) to perform a specialized Natural Language Processing (NLP) task: extracting descriptive keywords from text.
-
-The model is trained to identify words that describe a person's **skills, personality, or emotional state** from a given sentence.
-
-Instead of full model training, the project uses **LoRA (Low-Rank Adaptation)**, a parameter-efficient fine-tuning technique that significantly reduces computational cost while maintaining strong performance.
+- This project focuses on fine-tuning a Large Language Model (LLM) to perform a specialized Natural Language Processing (NLP) task: extracting descriptive keywords from text.
+- The model is trained to identify words that describe a person's **skills, personality, or emotional state** from a given sentence.
+- Instead of full model training, the project uses **LoRA (Low-Rank Adaptation)**, a parameter-efficient fine-tuning technique that significantly reduces computational cost while maintaining strong performance.
 
 ---
 لا
