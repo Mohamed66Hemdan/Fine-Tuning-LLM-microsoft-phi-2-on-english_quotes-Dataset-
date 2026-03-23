@@ -70,10 +70,11 @@ The model is trained using a combination of efficient training techniques, struc
 ### Example 2
 ![Example 2](results/Picture2.png)
 ---
-Example 3(results/Picture3.png)
+### Example 3
+![Example 3](results/Picture3.png)
 ---
-Example 4(results/Picture4.png)
-
+### Example 4
+![Example 4](results/Picture4.png)
 ---
 
 ## Model Saving & Reuse
