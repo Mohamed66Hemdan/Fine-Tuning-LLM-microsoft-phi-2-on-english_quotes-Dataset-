@@ -42,7 +42,7 @@ This dataset consists of approximately 2,500 text samples, where each sample inc
 - A padding token is explicitly defined for stable batch processing  
 
 These tags act as semantic labels such as *love, life, motivation, success, philosophy*, and more. :contentReference[oaicite:1]{index=1}
-
+---
 ### 4. Training Strategy
 
 The model is trained using a combination of efficient training techniques, structured preprocessing, and carefully selected hyperparameters.
