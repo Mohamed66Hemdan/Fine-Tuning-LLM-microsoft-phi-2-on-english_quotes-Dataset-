@@ -24,7 +24,7 @@ The main goal is to transform a general-purpose language model into a task-speci
 Instead of updating all model weights, only a small subset of parameters is trained. This approach:
 - Reduces memory usage
 - Speeds up training
-- Makes the process feasible on limited hardware (e.g., Google Colab)
+- Makes the process feasible on limited hardware (Google Colab)
 ---
 ### 3. Dataset Preparation
 The project uses the **English Quotes Dataset**, which contains a collection of inspirational and philosophical quotes collected from Goodreads.
@@ -32,7 +32,6 @@ The project uses the **English Quotes Dataset**, which contains a collection of 
 This dataset consists of approximately 2,500 text samples, where each sample includes:
 - A quote (main text)
 - The author of the quote
-- A set of tags describing the themes or topics of the quote :contentReference[oaicite:0]{index=0}
   
 #### Data Preprocessing
 - The dataset is converted into an instruction-style format to guide the model toward the keyword extraction task  
@@ -65,7 +64,13 @@ The model is trained using a combination of efficient training techniques, struc
 ---
 
 ## Results
-
+Example 1(results/Picture1.png)
+---
+Example 2(results/Picture2.png)
+---
+Example 3(results/Picture3.png)
+---
+Example 4(results/Picture4.png)
 
 ---
 
