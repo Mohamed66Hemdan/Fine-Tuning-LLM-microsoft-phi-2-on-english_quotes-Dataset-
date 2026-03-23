@@ -33,19 +33,19 @@ This dataset consists of approximately 2,500 text samples, where each sample inc
 - A quote (main text)
 - The author of the quote
 - A set of tags describing the themes or topics of the quote :contentReference[oaicite:0]{index=0}
-
-These tags act as semantic labels such as *love, life, motivation, success, philosophy*, and more. :contentReference[oaicite:1]{index=1}
-
-### 4. Training Strategy
-
-The model is trained using a combination of efficient training techniques, structured preprocessing, and carefully selected hyperparameters.
-
+  
 #### Data Preprocessing
 - The dataset is converted into an instruction-style format to guide the model toward the keyword extraction task  
 - Each input clearly defines the task and provides the sentence as context  
 - Text is tokenized into numerical representations suitable for the model  
 - Padding and truncation are applied to ensure consistent input sizes  
 - A padding token is explicitly defined for stable batch processing  
+
+These tags act as semantic labels such as *love, life, motivation, success, philosophy*, and more. :contentReference[oaicite:1]{index=1}
+
+### 4. Training Strategy
+
+The model is trained using a combination of efficient training techniques, structured preprocessing, and carefully selected hyperparameters.
 
 #### Training Approach
 - A causal language modeling objective is used, where the model learns by predicting the next token  
