@@ -40,8 +40,6 @@ This dataset consists of approximately 2,500 text samples, where each sample inc
 - Text is tokenized into numerical representations suitable for the model  
 - Padding and truncation are applied to ensure consistent input sizes  
 - A padding token is explicitly defined for stable batch processing  
-
-These tags act as semantic labels such as *love, life, motivation, success, philosophy*, and more. :contentReference[oaicite:1]{index=1}
 ---
 ### 4. Training Strategy
 
