@@ -118,5 +118,5 @@ This approach can be extended to:
 
 ## 👨‍💻 Author
 
-Mohamed Hamdan  
+Mohamed Hemdan  
 AI Engineer
