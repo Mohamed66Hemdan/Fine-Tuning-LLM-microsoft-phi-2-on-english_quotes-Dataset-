@@ -64,7 +64,7 @@ The model is trained using a combination of efficient training techniques, struc
 ---
 
 ## Results
-Example 1(results/Picture1.png)
+![Example 1](results/Picture1.png)
 ---
 Example 2(results/Picture2.png)
 ---
